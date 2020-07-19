@@ -1,3 +1,56 @@
+
+def tik():
+	titik = ['.   ','..  ','... ']
+	for o in titik:
+		print("\r\x1b[1;93mPlease Wait \x1b[1;93m"+o),;sys.stdout.flush();time.sleep(1)
+
+
+back = 0
+berhasil = []
+cekpoint = []
+oks = []
+id = []
+cpb = []
+listgrup = []
+gagal = []
+idfriends = []
+idfromfriends = []
+idmem = []
+em = []
+emfromfriends = []
+hp = []
+hpfromfriends = []
+reaksi = []
+reaksigrup = []
+komen = []
+komengrup = []
+listgrup = []
+vulnot = "\033[31mNot Vuln"
+vuln = "\033[32mVuln"
+back = 0
+threads = []
+sucessful = []
+checkpoint = []
+oks = []
+action_failed = []
+idfriends = []
+idfromfriends = []
+member_id = []
+email= []
+number = []
+id = []
+em = []
+email_from_friends = []
+hp = []
+hpfromfriends = []
+reaction = []
+reactiongroup = []
+comment = []
+group_comment = []
+listgroup = []
+vulnot = "\033[31mNot Vuln"
+vuln = "\033[32mVuln"
+
 os.system("clear")
 print  """
  █████╗ ██████╗ ██████╗ ██╗   ██╗██╗               
