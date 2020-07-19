@@ -15,7 +15,7 @@ printf """\e[0m\e[1;95m
 ▒██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒│││▒▒▒▒▒▒█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒───────▒▒▒▒▒▒
 
 «--------------AlizadA-GanG------------»
- \e[0m\e[1;93mCreated By Abdull AlizadA\e[0m\e[1;96m( \e[0m\e[1;95mBlackMafia \e[0m\e[1;96m)"""
+ \e[0m\e[1;93mCreated By Abdull AlizadA\e[0m\e[1;96m( \e[0m\e[1;95mAlizadA-GanG \e[0m\e[1;96m)"""
 printf ""
 echo
 read -p $' \e[1;31m[\e[0m\e[1;77m~\e[0m\e[1;31m]\e[0m\e[1;92m Input Your Name : \e[0m\e[1;96m\en' option
